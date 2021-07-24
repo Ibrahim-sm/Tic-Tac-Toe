@@ -1,1 +1,1 @@
-Simple GUI Tic-Tac-Toe using python
+Simple GUI Tic-Tac-Toe game using python
